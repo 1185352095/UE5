@@ -1,0 +1,2 @@
+*world2_Albedo.uasset filter=lfs diff=lfs merge=lfs -text
+*world2_Normal.uasset filter=lfs diff=lfs merge=lfs -text
